@@ -3,9 +3,9 @@
 
 using namespace std;
 
-string myName()
+string myName2()
 {
-	return "Nguyen Thanh Tri";
+	return "Nguyen Thanh Tri 2";
 }
 
 void learnGit()
