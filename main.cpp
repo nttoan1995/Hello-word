@@ -1,7 +1,12 @@
 #include <iostream>
-
+#include <string>
 
 using namespace std;
+
+string myName()
+{
+	return "Nguyen Thanh Tri";
+}
 
 void learnGit()
 {
